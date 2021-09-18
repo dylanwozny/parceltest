@@ -16,7 +16,7 @@
     "http-server": "^13.0.2",
     "sass": "^1.40.1"
   },
-  "main": "index.html",
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dylanwozny/parceltest.git"
