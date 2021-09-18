@@ -9,12 +9,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "dylan",
+  "license": "MIT",
   "devDependencies": {
     "parcel": "^2.0.0-rc.0",
     "http-server": "^13.0.2",
     "sass": "^1.40.1"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanwozny/parceltest.git"
+  },
+  "keywords": [
+    "parcel",
+    "sass"
+  ],
+  "bugs": {
+    "url": "https://github.com/dylanwozny/parceltest/issues"
+  },
+  "homepage": "https://github.com/dylanwozny/parceltest#readme"
 }
