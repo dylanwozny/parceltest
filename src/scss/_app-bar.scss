@@ -1,0 +1,11 @@
+.app-bar {
+  ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  li:first-of-type {
+    width: 150px;
+  }
+}

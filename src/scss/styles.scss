@@ -1,6 +1,8 @@
- @import 'reboot';
- @import 'page-header';
- 
- body{
-     background-color:  rgba(0,0,0,0.025);
- }
+// import partials here
+@import "reboot";
+@import "vars";
+@import "app-bar";
+
+body {
+  background-color: $bgColor;
+}
