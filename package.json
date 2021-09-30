@@ -7,7 +7,11 @@
   },
   "default": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html",
+    "start":"npx parcel src/index.html"
+    
   },
   "author": "dylan",
   "license": "MIT",
